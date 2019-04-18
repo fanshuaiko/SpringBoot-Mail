@@ -19,7 +19,7 @@ public class SpringBootMailApplicationTests {
 	@Autowired
 	private TemplateEngine templateEngine;
 	//设置收件账号
-	private String to = "1197303677@qq.com";
+	private String to = "11111111@qq.com";
 	//设置邮件主题
 	private String subject = "测试邮件";
 	//设置简单邮件内容
