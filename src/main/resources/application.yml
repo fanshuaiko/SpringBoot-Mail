@@ -3,9 +3,9 @@ spring:
   #QQ邮件服务地址
     host: smtp.qq.com
     #用户名
-    username: 1197303677@qq.com
+    username: 25345@qq.com
     #密码（授权码）
-    password: ojuncqucytdahcfb
+    password: rwtertwrw353453534
     #默认编码utf-8
     default-encoding: UTF-8
     
